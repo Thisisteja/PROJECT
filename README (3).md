@@ -36,6 +36,8 @@ The Smart Irrigation System is a state-of-the-art solution designed to optimize 
 4.The automatic shut-off valve control will be connected to the system's microcontroller, which will use the data from the sensors to turn the valve on and off as needed for optimized irrigation management.
 
 ## Block Diagram
+![Screenshot 2023-08-01 163405](https://github.com/Thisisteja/PROJECT/assets/140914817/daf2e0e0-f4d8-4aa5-a758-3ca2252595e8)
+
 ## Challenges and Opportunities
 Implementing MPPT technology in smart irrigation systems would require significant technical expertise and investment. However, the potential benefits in terms of water conservation and efficiency could make it a worthwhile investment for both individual users and agricultural operations. Opportunities for improvement in existing smart irrigation systems include better integration with weather data and advanced analytics, as well as more user-friendly interfaces for real-time data display and control. MPPT technology could be a key component in these improvements, providing a more efficient and sustainable solution for smart irrigation.
 
