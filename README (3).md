@@ -40,7 +40,7 @@ The Smart Irrigation System is a state-of-the-art solution designed to optimize 
 
 ## Challenges and Opportunities
 Implementing MPPT technology in smart irrigation systems would require significant technical expertise and investment. However, the potential benefits in terms of water conservation and efficiency could make it a worthwhile investment for both individual users and agricultural operations. Opportunities for improvement in existing smart irrigation systems include better integration with weather data and advanced analytics, as well as more user-friendly interfaces for real-time data display and control. MPPT technology could be a key component in these improvements, providing a more efficient and sustainable solution for smart irrigation.
-##Output
+
 ![Screenshot 2023-08-01 201112](https://github.com/Thisisteja/PROJECT-1/assets/140914817/2e7d0186-fea3-47cb-a329-d1190c017d9f)
 
 
