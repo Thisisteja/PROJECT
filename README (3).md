@@ -1,5 +1,5 @@
 
-# Major Project
+# Project
 MPPT based smart irrigation system with real time data display using matrix LED 
 
 
